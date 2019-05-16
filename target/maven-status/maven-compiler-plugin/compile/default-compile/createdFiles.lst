@@ -1,0 +1,4 @@
+com\springcloud\controller\UserController.class
+com\springcloud\service\UserService.class
+com\springcloud\enitity\User.class
+com\springcloud\StartConsumer.class
